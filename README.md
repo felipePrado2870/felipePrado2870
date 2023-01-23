@@ -7,7 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  <img align="right" alt="Rafa-pic" height="140" style="border-radius:100px;" src="https://instagram.flaj2-1.fna.fbcdn.net/v/t51.2885-19/269296996_240087331569583_7029124259017696921_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.flaj2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YLFHxXMyxdAAX--G-J7&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD0rpbRg1ZD2QxneXr7HkkIeyp86nFOc0dOjRkjrv4N7w&oe=636A3744&_nc_sid=8fd12b">
   
   ## 👥 Social pages
  
