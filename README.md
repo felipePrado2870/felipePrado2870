@@ -16,7 +16,7 @@
 
 📱 Atuação como Desenvolvedor Mobile em projetos próprios e freelance, do design à entrega.
 
-🎯 Desenvolvimento de apps escaláveis com arquitetura limpa, integração com Firebase e foco em experiência do usuário.
+🎯 Criação de apps escaláveis, com arquitetura limpa, Firebase e foco em UX.
 
 🧠 Aprendizado constante em lógica, estruturas de dados e boas práticas de código.
 
