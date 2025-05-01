@@ -10,11 +10,17 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software com experiência na indústria e foco atual em desenvolvimento mobile com Flutter, React Native e Firebase. Gosto de construir soluções eficientes, com atenção à usabilidade, performance e boas práticas de código.
+🎓 Sou estudante de Engenharia de Software com sólida experiência na indústria e atualmente focado no desenvolvimento mobile. Especializado em Flutter, React Native e Firebase, aplico minha lógica analítica e atenção aos detalhes na criação de aplicativos funcionais, com performance otimizada e excelente experiência do usuário.
 
-- 🔁 Transição da mecânica industrial para a tecnologia
-- 📱 Desenvolvedor Mobile em projetos próprios e freelancer
-- 🎯 Foco em apps com boa UX, integração com Firebase e arquitetura escalável
+🔁 Em transição da mecânica industrial para a tecnologia, com base técnica e pensamento estruturado
+
+📱 Atuação como Desenvolvedor Mobile em projetos autorais e como freelancer, do design à entrega final
+
+🎯 Construo aplicações escaláveis com arquitetura limpa, integração com Firebase e foco em UX de alto nível
+
+🧠 Aprendizado contínuo em lógica de programação, estrutura de dados e boas práticas de desenvolvimento
+
+🤝 Comprometido com colaboração, feedback e evolução constante em ambientes ágeis
 
 ---
 
@@ -37,10 +43,10 @@ Sou estudante de Engenharia de Software com experiência na indústria e foco at
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
-| 🎵 My_Music App | Player de músicas offline com GetX e audioplayers | Flutter, Dart | [GitHub](https://github.com/felipePrado2870/My_Music_App) |
-| 📷 Instagram Clone | App de rede social com login e feed | React Native, Firebase | [GitHub](https://github.com/felipePrado2870/Instagram) |
+| 🎵 My_Music App | Player de músicas offline com GetX e audioplayers | Flutter, Dart | [GitHub](https://github.com/felipePrado2870) |
+| 📷 Instagram Clone | App de rede social com login e feed | React Native, Firebase | [GitHub](https://github.com/felipePrado2870/Instagram.) |
 | 🧠 Duolingo Clone | Plataforma de aprendizado com gamificação | React Native, Firebase | [GitHub](https://github.com/felipePrado2870/Duolingo) |
-| 🤖 RecFace | Reconhecimento facial com Expo | React Native, Expo | [GitHub](https://github.com/felipePrado2870) |
+| 🤖 RecFace | Reconhecimento facial com Expo | React Native, Expo | [GitHub](https://github.com/felipePrado2870/RecFace) |
 | 🌐 Portfólio Online | Site pessoal com projetos e contato | HTML, CSS, JS | [Netlify](https://felipedopradopadila.netlify.app/) |
 
 ---
@@ -75,12 +81,6 @@ Sou estudante de Engenharia de Software com experiência na indústria e foco at
   <br><br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
 </p>
-
----
-
-### 🧾 Licença
-
-Este repositório está licenciado sob a [MIT License](LICENSE).
 
 ---
 
