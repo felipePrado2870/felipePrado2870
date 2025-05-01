@@ -12,7 +12,7 @@
 
 🎓 Sou estudante de Engenharia de Software com sólida experiência na indústria e atualmente focado no desenvolvimento mobile. Especializado em Flutter, React Native e Firebase, aplico minha lógica analítica e atenção aos detalhes na criação de aplicativos funcionais, com performance otimizada e excelente experiência do usuário.
 
-🔁 Em transição da mecânica industrial para a tecnologia, com base técnica sólida e pensamento analítico.
+🔁 Transição da mecânica para a tecnologia, com base técnica e raciocínio lógico.
 
 📱 Atuação como Desenvolvedor Mobile em projetos próprios e freelance, do design à entrega.
 
