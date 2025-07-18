@@ -43,7 +43,7 @@
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
-| 🎵 My_Music App | Player de músicas offline com GetX e audioplayers | Flutter, Dart | [GitHub](https://github.com/felipePrado2870) |
+| 🎵 My_Music App | Player de músicas offline com GetX e audioplayers | Flutter, Dart | [GitHub](https://github.com/felipePrado2870/vipeplay) |
 | 📷 Instagram Clone | App de rede social com login e feed | React Native, Firebase | [GitHub](https://github.com/felipePrado2870/Instagram.) |
 | 🧠 Duolingo Clone | Plataforma de aprendizado com gamificação | React Native, Firebase | [GitHub](https://github.com/felipePrado2870/Duolingo) |
 | 🤖 RecFace | Reconhecimento facial com Expo | React Native, Expo | [GitHub](https://github.com/felipePrado2870/RecFace) |
