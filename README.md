@@ -82,7 +82,3 @@
 </p>
 
 ---
-
-### 📊 Visitantes
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/felipePrado2870/count.svg" /></p>
